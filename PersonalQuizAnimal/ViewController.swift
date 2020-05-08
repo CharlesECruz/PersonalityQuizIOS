@@ -1,22 +1,23 @@
 //
 //  ViewController.swift
-//  PersonalityQuiz
+//  PersonalQuizAnimal
 //
-//  Created by Carlos Camacho on 2020-05-07.
+//  Created by Carlos Camacho on 2020-05-06.
 //  Copyright © 2020 Carlos Camacho. All rights reserved.
 //
 
 import UIKit
 
-class Main: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    @IBAction func startQuiz(_ sender: Any) {
+    @IBAction func startQuizPressed(_ sender: Any) {
         performSegue(withIdentifier: "startQuiz", sender: nil)
     }
+    
 }
 

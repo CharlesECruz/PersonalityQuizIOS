@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  PersonalityQuiz
+//  PersonalQuizAnimal
 //
-//  Created by Carlos Camacho on 2020-05-07.
+//  Created by Carlos Camacho on 2020-05-06.
 //  Copyright © 2020 Carlos Camacho. All rights reserved.
 //
 
